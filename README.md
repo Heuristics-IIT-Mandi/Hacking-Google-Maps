@@ -20,4 +20,7 @@ A few pointers before you start :
 5. Mention [@rishi-s8](https://github.com/rishi-s8) or [@shreyasbapat](https://github.com/shreyasbapat) in your Pull Request.
 6. You can only edit the submission by making a new commit.
 
-## Submission Deadline : 24 May 2020 23:59 IST 
+## ~~Submission Deadline : 24 May 2020 23:59 IST~~ 
+## Submission Deadline : 26 May 2020 23:59 IST
+
+## Submissions Closed 
