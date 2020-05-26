@@ -1,0 +1,18 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - B18128.md
+  - README.md
+  - B19137.md
+  - b18074.md
+  - b17092.md
+  - b19042.md
+  - b19085.md
+  - b19123.md
+  - b19136.md
+  - b19138.md
+  - b19188.md
+  - b19266.md
