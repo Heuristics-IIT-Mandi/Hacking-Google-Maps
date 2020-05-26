@@ -36,7 +36,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Main Website":
-    - "//shreyasb.com"
+    - "//iitmandi.co.in"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Heuristics"
