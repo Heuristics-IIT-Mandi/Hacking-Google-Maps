@@ -1,18 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Hacking the Google Maps
+description: Know how your maps work!
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://heuristics.shreyasb.dev" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "template.md", "Rakefile"]
+
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/just-the-docs.png"
+
+# Enable or disable the site search
+search_enabled: true
+
+# Set the search token separator for hyphenated-word search:
+search_tokenizer_separator: /[\s/]+/
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Main Website":
+    - "//shreyasb.com"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 Heuristics"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking:
+
 plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - B18128.md
-  - README.md
-  - B19137.md
-  - b18074.md
-  - b17092.md
-  - b19042.md
-  - b19085.md
-  - b19123.md
-  - b19136.md
-  - b19138.md
-  - b19188.md
-  - b19266.md
+  - jekyll-seo-tag
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
