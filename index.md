@@ -34,4 +34,5 @@ A few pointers before you start :
 ## Submissions Closed
 
 
-## Results will be out on 30 May 2020 14:00 IST
+## ~~Results will be out on 30 May 2020 14:00 IST~~
+## Results will be out on 02 June 2020 18:00 IST
