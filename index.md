@@ -39,7 +39,7 @@ A few pointers before you start :
 
 ## Results
 
-All the participats focussed on solving some part the main problem. Hence, there are no positions of the winners. Each of the following is the winner of the contest. The order is the same as the order on the sidebar.
+All the participants focussed on solving some part the main problem. Hence, there are no positions for the winners. Each of the following is the winner of the contest. The order is the same as appearing on the sidebar.
 
 - [Manvi Gupta](https://heuristics.shreyasb.dev/b17092/)
 - [Manan Shah](https://heuristics.shreyasb.dev/b19042/)
