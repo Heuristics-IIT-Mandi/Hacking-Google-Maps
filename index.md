@@ -35,4 +35,16 @@ A few pointers before you start :
 
 
 ## ~~Results will be out on 30 May 2020 14:00 IST~~
-## Results will be out on 02 June 2020 18:00 IST
+## ~~Results will be out on 02 June 2020 18:00 IST~~
+
+## Results
+
+All the participats focussed on solving some part the main problem. Hence, there are no positions of the winners. Each of the following is the winner of the contest. The order is the same as the order on the sidebar.
+
+- [Manvi Gupta](https://heuristics.shreyasb.dev/b17092/)
+- [Manan Shah](https://heuristics.shreyasb.dev/b19042/)
+- [Yamini Sharma](https://heuristics.shreyasb.dev/b19123/)
+- [Pranshu Kharkwal](https://heuristics.shreyasb.dev/b19136/)
+
+## Congratulations to the Winners!
+
